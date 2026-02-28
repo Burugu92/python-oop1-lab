@@ -22,7 +22,7 @@ class Coffee:
 
     # Method to give a tip
     def tip(self):
-        print("This coffee is great, here's a tip!")
+        print("This coffee is great, here’s a tip!")
         self.price += 1  # increase price by 1
 
 # Example usage
